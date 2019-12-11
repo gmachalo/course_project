@@ -1,6 +1,6 @@
 ## Contributors
-Dana Changwe dchangwe
-Gloria Machalo gmachalo
+Dana Changwe dchangwe<br>
+Gloria Machalo gmachalo<br>
 Kamuvwi Lungu kamuvwi
 
 ### Links to content
