@@ -1,3 +1,6 @@
+
+# course_project
+
 # COURSE PROJECT
 ## REFERENCE GUIDE FOR GIT, DOCKER, POWESHELL AND BASH COMMANDS
 
@@ -159,7 +162,7 @@
  10.find : search files and directories. Can use with wildcards (* ? [ ]).
  
   ![alt text](https://github.com/dchangwe/GITDemo/blob/master/images/find.JPG)
-=======
+
 ## STEP BY STEP TUTORIAL ON HOW TO  USE VIM TO CREATE AND EDIT FILES FROM LINUX COMMAND LINE
 STEP 1
 
@@ -238,3 +241,4 @@ STEP 13
  Type in a colon followed by wq and press enter to save the edited file
  
 ![ Alt text](https://github.com/dchangwe/GITDemo/blob/master/images/save_vim.JPG)
+
