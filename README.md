@@ -1,9 +1,3 @@
-
-# course_project
-
-
-# course_project
-
 # COURSE PROJECT
 ## REFERENCE GUIDE FOR GIT, DOCKER, POWESHELL AND BASH COMMANDS
 
