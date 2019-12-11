@@ -1,6 +1,9 @@
 
 # course_project
 
+
+# course_project
+
 # COURSE PROJECT
 ## REFERENCE GUIDE FOR GIT, DOCKER, POWESHELL AND BASH COMMANDS
 
@@ -241,4 +244,3 @@ STEP 13
  Type in a colon followed by wq and press enter to save the edited file
  
 ![ Alt text](https://github.com/dchangwe/GITDemo/blob/master/images/save_vim.JPG)
-
